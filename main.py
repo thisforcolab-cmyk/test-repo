@@ -1,2 +1,2 @@
 if __name__ == "__main__":
-    print("Hello, original!")
+    print("Hello, modified!")
